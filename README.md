@@ -1,5 +1,6 @@
 # AI-study
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 #### 介绍
@@ -38,3 +39,6 @@ AI学习备份使用
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
 >>>>>>> 1ca61c188fee9520a3aced78a76672b185568168
+=======
+仅用于个人学习备份
+>>>>>>> 2657e463069dfa45ce5a9a57b960aae18e495cf1
